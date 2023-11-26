@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T22:54:51.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="22.1.4" etag="hdPtNVxfY_xM0sO_liAt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T23:03:02.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="f3KPof6IRsZDDPyPU4Vx" version="22.1.4" type="github">
   <diagram name="Page-1" id="JSRyKgpzZIkBRNkuk8mu">
-    <mxGraphModel>
+    <mxGraphModel dx="817" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-1" value="Homepage" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-2" value="Login" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-3" value="Create Account" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-4" value="View Submissions" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-5" value="Users" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-6" value="Data Analysis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-7" value="Chatbot" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-8" value="Settings" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-9" value="Edit Submissions" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-10" value="Edit Users" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-11" value="Export Data" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-12" value="Clear All Chats" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-13" value="Export Data" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-15" value="Edit Admin Account" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NsdrIAYSsJXgiWYo0wiY-16" value="Delete Account" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
